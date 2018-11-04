@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,oBACA,oBAAuB","file":"static/css/main.0adb349b.css","sourcesContent":[".App{\n  width: 95% !important;\n  height: 95% !important;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
